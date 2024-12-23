@@ -20,6 +20,10 @@ Telco_customer_churn_status.xlsx
 ## Data Modeling
 In the "Model View" of Power BI, we verify that all tables are properly related before beginning data analysis and visualization.
 
+<p align="center">
+  <img src="https://github.com/ptavares96/Churn-Analysis/blob/main/Images/Data%20Modeling.png" alt="Exemplo de Imagem" width="1000">
+</p>
+
 ## Dashbords
 ### Dashborad Overview
 
@@ -34,6 +38,10 @@ In the "Model View" of Power BI, we verify that all tables are properly related 
 * The city with the largest number of customers is Los Angeles;
 * The city with the highest churn rate is San Diego, at 64.9%, indicating a need for targeted interventions in this area.
 
+<p align="center">
+  <img src="https://github.com/ptavares96/Churn-Analysis/blob/main/Images/report_page-0001.jpg" alt="Exemplo de Imagem" width="1000">
+</p>
+
 ## Dashboard Churn Reason
   
 * The top 5 churn reasons reveal that lack of competitiveness in service is the primary cause for customer departures;
@@ -44,12 +52,20 @@ In the "Model View" of Power BI, we verify that all tables are properly related 
 * Customers with Device Protection have a churn rate of 28.7%, compared to 24.9% for those without, suggesting that device protection may not significantly influence churn;
 * Customers with Unlimited Data have a churn rate of 31.7%, whereas those without it have a much lower churn rate of 16.0%, indicating that Unlimited Data might be a factor in higher churn.
 
+<p align="center">
+  <img src="https://github.com/ptavares96/Churn-Analysis/blob/main/Images/report_page-0002.jpg" alt="Exemplo de Imagem" width="1000">
+</p>
+
 ## Dashborad Contract and Tenure
 
 * Most customers opt for a month-to-month contract, but it has the highest churn rate at 45.8%, whereas the two-year contract has the lowest churn rate at 2.5%;
 * Long-term customers prefer the two-year contract, as shown in the "Tenure Year by Number of Customers" graph. On the other hand, those with less than a year of tenure tend to choose the month-to-month contract;
 * Customers with a half-year tenure have a notably high churn rate of 53.3%, indicating a critical period for retention efforts;
 * Customers with a half-year tenure tend to prefer Offer E, while long-term customers show a preference for Offer A.
+
+<p align="center">
+  <img src="https://github.com/ptavares96/Churn-Analysis/blob/main/Images/report_page-0003.jpg" alt="Exemplo de Imagem" width="1000">
+</p>
 
 ## Strategies
 
